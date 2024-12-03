@@ -1,0 +1,160 @@
+{
+	"info": {
+		"_postman_id": "c0336415-e1ed-457f-a827-dcffd1c16e7e",
+		"name": "Via CEP API",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "23092752"
+	},
+	"item": [
+		{
+			"name": "Busca por Endereço",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "https://viacep.com.br/ws/RS/Porto%20Alegre/Domingos/json/",
+					"protocol": "https",
+					"host": [
+						"viacep",
+						"com",
+						"br"
+					],
+					"path": [
+						"ws",
+						"RS",
+						"Porto%20Alegre",
+						"Domingos",
+						"json",
+						""
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Via CEP",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "https://viacep.com.br/ws/RS/Porto%20Alegre/Domingos/json/",
+					"protocol": "https",
+					"host": [
+						"viacep",
+						"com",
+						"br"
+					],
+					"path": [
+						"ws",
+						"RS",
+						"Porto%20Alegre",
+						"Domingos",
+						"json",
+						""
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Busca por Endereço",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "https://viacep.com.br/ws/RS/Porto%20Alegre/Domingos/json/",
+					"protocol": "https",
+					"host": [
+						"viacep",
+						"com",
+						"br"
+					],
+					"path": [
+						"ws",
+						"RS",
+						"Porto%20Alegre",
+						"Domingos",
+						"json",
+						""
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Busca por Endereço",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "https://viacep.com.br/ws/RS/Porto%20Alegre/Domingos/json/",
+					"protocol": "https",
+					"host": [
+						"viacep",
+						"com",
+						"br"
+					],
+					"path": [
+						"ws",
+						"RS",
+						"Porto%20Alegre",
+						"Domingos",
+						"json",
+						""
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Erro na Busca",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "https://viacep.com.br/ws/RS/Porto%20Alegre/Domingos/json/",
+					"protocol": "https",
+					"host": [
+						"viacep",
+						"com",
+						"br"
+					],
+					"path": [
+						"ws",
+						"RS",
+						"Porto%20Alegre",
+						"Domingos",
+						"json",
+						""
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Formato Invaldo",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "https://viacep.com.br/ws/RS/Porto%20Alegre/Domingos/json/",
+					"protocol": "https",
+					"host": [
+						"viacep",
+						"com",
+						"br"
+					],
+					"path": [
+						"ws",
+						"RS",
+						"Porto%20Alegre",
+						"Domingos",
+						"json",
+						""
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}
